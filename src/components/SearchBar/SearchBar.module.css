@@ -1,10 +1,10 @@
 .container {
-    padding: 20px;
+    padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
   
-    background: linear-gradient(to right, #283048, #859398);
+    background: linear-gradient(to right, #4263bc, #5d31b7);
   }
   
   .form {
@@ -24,12 +24,12 @@
     outline: transparent;
   }
   .input {
-    padding: 10px 20px 10px 40px;
-    border-radius: 10px;
-    border: 1px grey solid;
+    padding: 10px 50px 10px 50px;
+    border-radius: 5px;
+    border: 1px rgb(89, 214, 72) solid;
   }
   
   .input:focus {
     outline: transparent;
-    border-color: #a3a9ac;
+    border-color: #16a8f1;
   }
